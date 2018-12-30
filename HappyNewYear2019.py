@@ -5,5 +5,5 @@ print(a)
 
 if str(a) == "2019/01/01":
     for i in range(0,2019):
-        print("happy New year!")
+        print("Happy New Year!")
 
